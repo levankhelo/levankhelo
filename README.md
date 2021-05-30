@@ -26,7 +26,7 @@ Goto:
 - Programming consultant: `1` years
 
 ## Programming-Languages
-This list is __not orderd__ by experience, preference or any other value!
+This list is __not orderd__ by experience, personal preference or any other value!
 - GoLang
 - C++
 - Javacript/NodeJS
@@ -37,4 +37,5 @@ This list is __not orderd__ by experience, preference or any other value!
 - Ruby [Fundamentals]
 
 ## Tech Stack
-- **IDE**/**Editor**: Visual Studio, VS Code, Sublime Text, Notepad++, nano, vi/vim
+- Visual Studio, VS Code, Sublime Text, Notepad++, nano, vi/vim
+- 
