@@ -3,7 +3,7 @@
 `Goto`:
 - [My Webpage](https://www.levankhelo.com)
 - [About me](https://github.com/levankhelo/levankhelo/blob/main/README.md#about-me)
-- [Experience]()
+- [Experience](https://github.com/levankhelo/levankhelo/blob/main/README.md#experience)
 
 ## About me
 
@@ -13,18 +13,9 @@ Currently working as **Senior System Engineer** at [**EPAM**](https://www.epam.c
 I'm pursuing 
 
 ## Experience
-<!--
-**levankhelo/levankhelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Software engineer: `5+` Years
+- Competitive Programming: `4+` Years
+- System/DevOps Engineer: `3` years
+- System Architect: `2` Years
+- Mentor: `2` years
+- Programming consultant: `1` years
