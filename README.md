@@ -2,7 +2,7 @@
 
 `Goto`:
 - [My Webpage](https://www.levankhelo.com)
-- [About me]()
+- [About me](https://github.com/levankhelo/levankhelo/blob/main/README.md#about-me)
 - [Experience]()
 
 ## About me
