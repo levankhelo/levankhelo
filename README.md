@@ -39,4 +39,6 @@ This list is __not orderd__ by experience, personal preference or any other valu
 
 ## Tech Stack
 - Visual Studio, VS Code, Sublime Text, Notepad++, nano, vi/vim
-- 
+- Ansible
+- Docker, VirtualBox, VMWare, Vagrant
+- Amazon Web Services (AWS), Google Cloud Platform (GCP) [fundamentals]
