@@ -1,17 +1,17 @@
 ### Hello friend!
 
-`Goto`:
+`goto`:
 - [My Webpage](https://www.levankhelo.com)
 - [About me](https://github.com/levankhelo/levankhelo/blob/main/README.md#about-me)
 - [Experience](https://github.com/levankhelo/levankhelo/blob/main/README.md#experience)
 
 ## About me
-
-
-I\'m **Software**, **System** and **DevOps** **Engineer** with over **6 years** of experience in field.   
-
-Currently working as **Senior System Engineer** at [**EPAM**](https://www.epam.com/).
-I'm pursuing **Master's Degree** in **Computer Science** at Georgian Technical University
+### I Am
+- **Software**, **System** and **DevOps** **Engineer** with over **6 years** of experience in field.   
+### Currently Position
+- **Senior System Engineer** at [**EPAM**](https://www.epam.com/).
+### Education
+- I'm pursuing **Master's Degree** in **Computer Science** at Georgian Technical University
 
 ## Experience
 - Software engineer: `5+` Years
