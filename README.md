@@ -15,7 +15,7 @@
 - I'm pursuing **Master's Degree** in **Computer Science** at Georgian Technical University
 
 ## Experience
-- Software engineer: `5+` Years
+- Software Engineer: `5+` Years
 - Competitive Programming: `4+` Years
 - System/DevOps Engineer: `3` years
 - System Architect: `2` Years
