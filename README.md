@@ -19,12 +19,12 @@ Goto:
 - Pursuing **Master's Degree** in **Computer Science**
 
 ## Experience
-- Software Engineer: `5+` Years - CERN, NATIX, EPAM
+- Software Engineer: `5+` Years - *CERN, NATIX, EPAM*
 - Competitive Programming: `4+` Years
-- System/DevOps Engineer: `3` years - CERN, NATIX, EPAM
-- System Architect: `2` Years - CERN
-- Mentor: `2` years - CERN
-- Programming consultant: `1` years - CERN
+- System/DevOps Engineer: `3` years - *CERN, NATIX, EPAM*
+- System Architect: `2` Years - *CERN*
+- Mentor: `2` years - *CERN*
+- Programming consultant: `1` years - *CERN*
 
 ## Programming-Languages
 This list is __not orderd__ by experience, personal preference or any other value!
