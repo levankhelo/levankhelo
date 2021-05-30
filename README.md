@@ -1,6 +1,6 @@
 ### Hello friend!
 
-`goto`:
+Goto:
 - [My Webpage](https://www.levankhelo.com)
 - [About me](https://github.com/levankhelo/levankhelo/blob/main/README.md#about-me)
 - [Experience](https://github.com/levankhelo/levankhelo/blob/main/README.md#Experience)
