@@ -3,8 +3,11 @@
 `goto`:
 - [My Webpage](https://www.levankhelo.com)
 - [About me](https://github.com/levankhelo/levankhelo/blob/main/README.md#about-me)
-- [Experience](https://github.com/levankhelo/levankhelo/blob/main/README.md#experience)
+- [Experience](https://github.com/levankhelo/levankhelo/blob/main/README.md#Experience)
+- [Programming Languages](https://github.com/levankhelo/levankhelo/blob/main/README.md#Programming-Languages)
+- [Tech Stack](https://github.com/levankhelo/levankhelo/blob/main/README.md#Tech-Stack)
 - [Public Repositories](https://github.com/levankhelo?tab=repositories)
+
 
 ## About me
 ### I Am
@@ -21,3 +24,17 @@
 - System Architect: `2` Years
 - Mentor: `2` years
 - Programming consultant: `1` years
+
+## Programming-Languages
+This list is __not orderd__ by experience, preference or any other value!
+- GoLang
+- C++
+- Javacript/NodeJS
+- Python
+- PHP, Javascript ( + WebGL, Responsive web design: HTML, CSS, React-Native, React, and other)
+- C# [Fundamentals], Unity C#
+- Java [Fundamentals]
+- Ruby [Fundamentals]
+
+## Tech Stack
+- **IDE**/**Editor**: Visual Studio, VS Code, Sublime Text, Notepad++, nano, vi/vim
