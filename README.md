@@ -15,7 +15,8 @@ Goto:
 ### Currently Position
 - **Senior System Engineer** at [**EPAM**](https://www.epam.com/).
 ### Education
-- I'm pursuing **Master's Degree** in **Computer Science** at Georgian Technical University
+- Bachelor's degree in Computer Science
+- Pursuing **Master's Degree** in **Computer Science**
 
 ## Experience
 - Software Engineer: `5+` Years
