@@ -8,9 +8,10 @@
 ## About me
 
 
-I\'m **Software**, **System** and **DevOps** **Engineer** with over **6 years** of experience in field. 
+I\'m **Software**, **System** and **DevOps** **Engineer** with over **6 years** of experience in field.   
+
 Currently working as **Senior System Engineer** at [**EPAM**](https://www.epam.com/).
-I'm pursuing 
+I'm pursuing **Master's Degree** in **Computer Science** at Georgian Technical University
 
 ## Experience
 - Software engineer: `5+` Years
