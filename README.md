@@ -36,7 +36,7 @@ This list is __not orderd__ by experience, personal preference or any other valu
 - C# [Fundamentals], Unity C#
 - Java [Fundamentals]
 - Ruby [Fundamentals]
-- And more...
+- *And more...*
 
 ## Tech Stack
 - Visual Studio, VS Code, Sublime Text, Notepad++, nano, vi/vim
@@ -45,4 +45,4 @@ This list is __not orderd__ by experience, personal preference or any other valu
 - Amazon Web Services (AWS), Google Cloud Platform (GCP) [fundamentals]
 - Redis, MongoDB
 - Oracle SQL, MySQL, NoSQL
-- And more...
+- *And more...*
