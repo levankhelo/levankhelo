@@ -10,8 +10,6 @@ Goto:
 
 
 ## About me
-[[Back To Top](https://github.com/levankhelo/levankhelo/blob/main/README.md#hello-friend)]  
-
 ### I Am
 - **Software**, **System**, and **DevOps** **Engineer** with over **6 years** of experience in the field.   
 ### Currently Position
