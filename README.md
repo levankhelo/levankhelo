@@ -11,7 +11,7 @@ Goto:
 
 ## About me
 ### I Am
-- **Software**, **System** and **DevOps** **Engineer** with over **6 years** of experience in field.   
+- **Software**, **System**, and **DevOps** **Engineer** with over **6 years** of experience in the field.   
 ### Currently Position
 - **Senior System Engineer** at [**EPAM**](https://www.epam.com/).
 ### Education
