@@ -1,7 +1,7 @@
 ### Hello friend!
 
 Goto:
-- [My Webpage](https://www.levankhelo.com)
+- [My Webpage](https://levankhelo.com)
 - [About me](https://github.com/levankhelo/levankhelo/blob/main/README.md#about-me)
 - [Experience](https://github.com/levankhelo/levankhelo/blob/main/README.md#Experience)
 - [Programming Languages](https://github.com/levankhelo/levankhelo/blob/main/README.md#Programming-Languages)
