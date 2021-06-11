@@ -12,7 +12,7 @@ Goto:
 ## About me
 ### I Am
 - **Software**, **System**, and **DevOps** **Engineer** with over **6 years** of experience in the field.   
-### Currently Position
+### Current Position
 - **Senior System Engineer** at [**EPAM**](https://www.epam.com/).
 ### Education
 - Bachelor's degree in Computer Science
