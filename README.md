@@ -1,5 +1,5 @@
 
-- [My Webpage](https://levankhelo.com)
+Check out [My Webpage](https://levankhelo.com) for more information
 
 
 ## About me
