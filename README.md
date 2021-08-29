@@ -19,33 +19,24 @@ Goto:
 - Pursuing **Master's Degree** in **Computer Science**
 
 ## Experience
-[[Back To Top](https://github.com/levankhelo/levankhelo/blob/main/README.md#hello-friend)]  
 
 - Software Engineer: `5+` Years - *CERN, NATIX, EPAM*
 - Competitive Programming: `4+` Years
 - System/DevOps Engineer: `3` years - *CERN, NATIX, EPAM*
-- System Architect: `2` Years - *CERN*
+- System Architect: `1` Years - *CERN*
 - Mentor: `2` years - *CERN*
 - Programming consultant: `1` years - *CERN*
 
 ## Programming-Languages
-[[Back To Top](https://github.com/levankhelo/levankhelo/blob/main/README.md#hello-friend)]  
 
 This list is __not orderd__ by experience, personal preference or any other value!
-- GoLang
-- C++
-- Javacript/NodeJS
-- Python
-- PHP, Javascript ( + WebGL, Responsive web design: HTML, CSS, React-Native, React, and other)
-- C# [Fundamentals], Unity C#
-- Java [Fundamentals]
-- Ruby [Fundamentals]
+- C++, GoLang
+- Javacript/NodeJS, Python
+- PHP, Javascript ( + WebGL, Responsive web design: HTML, CSS, React-Native, ReactJS, etc.)
+- Java [Fundamentals], C# [Fundamentals], Unity C#
 - *And more...*
 
 ## Tech Stack
-[[Back To Top](https://github.com/levankhelo/levankhelo/blob/main/README.md#hello-friend)]  
-
-- Visual Studio, VS Code, Sublime Text, Notepad++, nano, vi/vim
 - Ansible
 - Kubernetes, Docker, VirtualBox, VMware, Vagrant
 - Amazon Web Services (AWS), Google Cloud Platform (GCP) [fundamentals]
