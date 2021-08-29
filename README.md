@@ -9,6 +9,7 @@ Goto:
 - [Public Repositories](https://github.com/levankhelo?tab=repositories)
 
 
+
 ## About me
 ### I Am
 - **Software**, **System**, and **DevOps** **Engineer** with over **6 years** of experience in the field.   
@@ -19,7 +20,7 @@ Goto:
 - Pursuing **Master's Degree** in **Computer Science**
 
 ## Experience
-
+<a href="https://www.cern.ch"> <img display="inline-block" height="100px"  src="https://logos-world.net/wp-content/uploads/2020/12/CERN-Logo.png"/></a> <a href="https://www.natix.io"><img display="inline-block" height="100px"  src="https://pnptc-media.s3.amazonaws.com/images/NATIX.max-500x500.png"/></a> <a href="https://www.epam.com"><img display="inline-block" height="100px"  src="https://logos-download.com/wp-content/uploads/2019/06/Epam_Systems_Logo.png"/></a>
 - Software Engineer: `5+` Years - *CERN, NATIX, EPAM*
 - Competitive Programming: `4+` Years
 - System/DevOps Engineer: `3` years - *CERN, NATIX, EPAM*
