@@ -1,13 +1,5 @@
-### Hello friend!
 
-Goto:
 - [My Webpage](https://levankhelo.com)
-- [About me](https://github.com/levankhelo/levankhelo/blob/main/README.md#about-me)
-- [Experience](https://github.com/levankhelo/levankhelo/blob/main/README.md#Experience)
-- [Programming Languages](https://github.com/levankhelo/levankhelo/blob/main/README.md#Programming-Languages)
-- [Tech Stack](https://github.com/levankhelo/levankhelo/blob/main/README.md#Tech-Stack)
-- [Public Repositories](https://github.com/levankhelo?tab=repositories)
-
 
 
 ## About me
