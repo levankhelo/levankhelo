@@ -52,3 +52,8 @@ This list is __not orderd__ by experience, personal preference or any other valu
 - Redis, MongoDB
 - Oracle SQL, MySQL, NoSQL
 - *And more...*
+
+  
+
+![visitor count](https://profile-counter.glitch.me/levankhelo/count.svg)
+
