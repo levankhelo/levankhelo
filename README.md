@@ -13,12 +13,12 @@ Check out [My Webpage](https://levankhelo.com) for more information
 
 ## Experience
 <a href="https://www.cern.ch"> <img display="inline-block" height="75px"  src="https://logos-world.net/wp-content/uploads/2020/12/CERN-Logo.png"/></a> <a href="https://www.natix.io"><img display="inline-block" height="75px"  src="https://pnptc-media.s3.amazonaws.com/images/NATIX.max-500x500.png"/></a> <a href="https://www.epam.com"><img display="inline-block" height="75px"  src="https://logos-download.com/wp-content/uploads/2019/06/Epam_Systems_Logo.png"/></a>
-- Software Engineer: `5+` Years - *CERN, NATIX, EPAM*
-- Competitive Programming: `4+` Years
-- System/DevOps Engineer: `3` years - *CERN, NATIX, EPAM*
-- System Architect: `1` Years - *CERN*
-- Mentor: `2` years - *CERN*
-- Programming consultant: `1` years - *CERN*
+- Software Engineer: *CERN, NATIX, EPAM*
+- Competitive Programming: 10+ Contests 
+- System/DevOps Engineer: *CERN, NATIX, EPAM*
+- Software Architect: *CERN*
+- Mentor: *CERN*
+- Programming consultant: *CERN*
 
 ## Programming-Languages
 
