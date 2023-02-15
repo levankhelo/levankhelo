@@ -21,12 +21,10 @@ Check out [My Webpage](https://levankhelo.com) for more information
 *CERN, NATIX, EPAM, Nike, Ahold Delhaize*
 
 ## Programming-Languages
-
-This list is __not orderd__ by experience, personal preference or any other value!
 - C++, GoLang
 - Javacript/NodeJS, Python
 - PHP, Javascript ( + WebGL, Responsive web design: HTML, CSS, React-Native, ReactJS, etc.)
-- Java [Fundamentals], C# [Fundamentals], Unity C#
+- Unity C#, C# [Fundamentals], Java [Fundamentals], 
 - *And more...*
 
 ## Tech Stack
