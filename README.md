@@ -22,7 +22,7 @@ Check out [My Webpage](https://levankhelo.com) for more information
 
 ## Programming-Languages
 - C++, GoLang
-- Javacript/NodeJS, Python
+- Javacript ES6, NodeJS, Python
 - PHP, Javascript ( + WebGL, Responsive web design: HTML, CSS, React-Native, ReactJS, etc.)
 - Unity C#, C# [Fundamentals], Java [Fundamentals], 
 - *And more...*
