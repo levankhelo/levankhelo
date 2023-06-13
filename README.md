@@ -8,8 +8,7 @@ Check out [My Webpage](https://levankhelo.com) for more information
 ### Current Position
 - **Senior System Engineer** at [**EPAM**](https://www.epam.com/).
 ### Education
-- Bachelor's degree in Computer Science
-- Pursuing **Master's Degree** in **Computer Science**
+- **Master's Degree** in **Computer Science**
 
 ## Companies worked at
 <a href="https://www.cern.ch"> <img display="inline-block" height="75px"  src="https://logos-world.net/wp-content/uploads/2020/12/CERN-Logo.png"/></a> 
