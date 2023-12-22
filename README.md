@@ -4,11 +4,12 @@ Check out [My Webpage](https://levankhelo.com) for more information
 
 ## About me
 ### I Am
-- **Software**, **System**, and **DevOps** **Engineer** with over **7 years** of experience in the field.   
+- **Software**, **System**, and **DevOps** **Engineer** with over **8 years** of experience in the field.   
 ### Current Position
-- **Senior System Engineer** at [**EPAM**](https://www.epam.com/).
+- **lead Systems Engineer** at [**EPAM**](https://www.epam.com/).
 ### Education
 - **Master's Degree** in **Computer Science**
+- Pursuing **PhD** in **Comupter Science**
 
 ## Companies worked at
 <a href="https://www.cern.ch"> <img display="inline-block" height="75px"  src="https://logos-world.net/wp-content/uploads/2020/12/CERN-Logo.png"/></a> 
@@ -21,19 +22,9 @@ Check out [My Webpage](https://levankhelo.com) for more information
 
 ## Programming-Languages
 - C++, GoLang
-- Javacript ES6, NodeJS, Python
-- PHP, Javascript ( + WebGL, Responsive web design: HTML, CSS, React-Native, ReactJS, etc.)
+- Javacript/NodeJS, Python, PHP
 - Unity C#, C# [Fundamentals], Java [Fundamentals], 
 - *And more...*
-
-## Tech Stack
-- Ansible
-- Kubernetes, Docker, VirtualBox, VMware, Vagrant
-- Amazon Web Services (AWS), Google Cloud Platform (GCP) [fundamentals]
-- Redis, MongoDB
-- Oracle SQL, MySQL, NoSQL
-- *And more...*
-
   
 
 ![visitor count](https://profile-counter.glitch.me/levankhelo/count.svg)
