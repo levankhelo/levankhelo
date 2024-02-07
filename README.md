@@ -63,4 +63,4 @@ Master in Computer Science
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ##
-![Levan's GitHub stats](https://github-readme-stats.vercel.app/api?username=levankhelo&custom_title=Levan's%20Public%20stats)
+![Levan's GitHub stats](https://github-readme-stats.vercel.app/api?username=levankhelo&show_icons=true&theme=gruvbox&custom_title=Levan's%20Public%20stats&hide=reviews)
