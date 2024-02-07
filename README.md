@@ -35,7 +35,7 @@ Master in Computer Science
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-313131?style=for-the-badge&logo=apache-kafka&logoColor=blue)
 
 ## ☁️ Cloud and Automation
-![AWS](https://img.shields.io/badge/Amazon_AWS-313131?style=for-the-badge&logo=amazonaws&logoColor=orange)
+![AWS](https://img.shields.io/badge/Amazon_AWS-313131?style=for-the-badge&logo=amazonaws&logoColor=orange)  
 ![Terraform](https://img.shields.io/badge/Terraform-313131?style=for-the-badge&logo=terraform&logoColor=purple)
 ![Pulumi](https://img.shields.io/badge/Pulumi-313131?style=for-the-badge&logo=pulumi&logoColor=pink)  
 ![CloudFlare](https://img.shields.io/badge/Cloudflare-313131?style=for-the-badge&logo=Cloudflare&logoColor=orange)
