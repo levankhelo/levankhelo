@@ -4,10 +4,14 @@ Check out [My Webpage](https://levankhelo.com) for more information
 
 ## About me
 ### I Am
-**Software**, **System**, and **DevOps** **Engineer** with over **8 years** of experience in the field.  
-> - Coding
-> - Automation
-> - Gaming
+**Software**, **System**, and **DevOps** **Engineer** with over **8 years** of experience in the field.    
+  
+Passionate About:
+> - 👾 Coding
+> - 🤖 Automation of everything
+> - 🕹️ fast paced Gaming
+> - 🍕 Pizza
+> - 🦜 Parrots
 ### 👨‍💻 Current Position
  **lead Systems Engineer** at [**EPAM**](https://www.epam.com/).
 ### 🎓 Education
