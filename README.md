@@ -13,7 +13,7 @@ Passionate About:
 > - 🍕 Pizza
 > - 🦜 Parrots
 ### 👨‍💻 Current Position
- **lead Systems Engineer** at [**EPAM**](https://www.epam.com/).
+ **Lead Systems Engineer** at [**EPAM**](https://www.epam.com/).
 ### 🎓 Education
 Master in Computer Science
 > Pursuing **PhD**
