@@ -36,7 +36,7 @@ Master in Computer Science
 
 ## ‎‏‏‎ ‎  
 ### ‎‏‏‎ ‎  
-<p align="center"><img height="75px" src="./media/epam-glitch.gif?raw=true"/></p>
+<p align="center"><img height="75px" src="https://logos-download.com/wp-content/uploads/2019/06/Epam_Systems_Logo.png"/></p>
 <a href="https://www.epam.com">
   <p align="center">EPAM</p>
 </a>
