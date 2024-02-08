@@ -20,40 +20,40 @@ Master in Computer Science
 
 ## 🏘️ Companies  
 
+<p align="center"><img height="125px"  src="https://logos-world.net/wp-content/uploads/2020/12/CERN-Logo.png"/></p>
 <a href="https://www.cern.ch">
-  <p align="center"><img height="125px"  src="https://logos-world.net/wp-content/uploads/2020/12/CERN-Logo.png"/></p>
   <p align="center">CERN</p>
 </a>
 <p align="center">the European Organization for Nuclear Research, is one of the world's largest and most respected centres for scientific research</p>
 
 ## ‎‏‏‎ ‎  
 ### ‎‏‏‎ ‎  
+<p align="center"><img height="125px"  src="https://pnptc-media.s3.amazonaws.com/images/NATIX.max-500x500.png"/></p>
 <a href="https://www.natix.io">
-  <p align="center"><img height="125px"  src="https://pnptc-media.s3.amazonaws.com/images/NATIX.max-500x500.png"/></p>
   <p align="center">NATIX</p>
 </a>
 <p align="center">German startup, data-safe, AI/ML models on IOT Edge Devices</p>
 
 ## ‎‏‏‎ ‎  
 ### ‎‏‏‎ ‎  
+<p align="center"><img height="175px"  src="./media/epam-animated.gif?raw=true"/></p>
 <a href="https://www.epam.com">
-  <p align="center"><img height="175px"  src="./media/epam-animated.gif?raw=true"/></p>
   <p align="center">EPAM</p>
 </a>
 <p align="center">Global, one of top 15, IT service company in the world, providing services for clients like Google, Adobe, Nike, and many more.</p>
 
 ## ‎‏‏‎ ‎  
 ### ‎‏‏‎ ‎  
+<p align="center"><img  height="125px" src="./media/nike-wet.gif?raw=true"/></p>
 <a href="https://www.nike.io">
-  <p align="center"><img  height="125px" src="./media/nike-wet.gif?raw=true"/></p>
   <p align="center">Nike</p>
 </a>
 <p align="center">Leading athletic apparel retail company, delivering innovative products, experiences and services</p>
 
 ## ‎‏‏‎ ‎  
 ### ‎‏‏‎ ‎  
+<p align="center"><img height="75px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ahold_Delhaize.svg/188px-Ahold_Delhaize.svg.png?20221018210422"/></p>
 <a href="https://www.aholddelhaize.com/brands/">
-  <p align="center"><img height="75px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ahold_Delhaize.svg/188px-Ahold_Delhaize.svg.png?20221018210422"/></p>
   <p align="center">Ahold Delhaize</p>
 </a>
 <p align="center">Innovative, retail and wholesale company, with large variaty of products and 19 different brands spread over 3 continents</p>
