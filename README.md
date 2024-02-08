@@ -32,7 +32,7 @@ Master in Computer Science
 <a href="https://www.natix.io">
   <p align="center">NATIX</p>
 </a>
-<p align="center">German startup, data-safe, AI/ML models on IOT Edge Devices</p>
+<p align="center">German tech startup, creating privacy-first AI/ML models, running on IOT Edge Devices, supporting multiple-AI on input stream</p>
 
 ## ‎‏‏‎ ‎  
 ### ‎‏‏‎ ‎  
