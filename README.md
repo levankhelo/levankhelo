@@ -44,11 +44,11 @@ Master in Computer Science
 ## 💽 Databases
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-313131?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=blue)
 ![ElasticSearch](https://img.shields.io/badge/Elastic_Search-313131?style=for-the-badge&logo=elasticsearch&logoColor=yellow)
-![MariaDB](https://img.shields.io/badge/MariaDB-313131?style=for-the-badge&logo=mariadb&logoColor=blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-313131?style=for-the-badge&logo=mongodb&logoColor=green)
-![MySQL](https://img.shields.io/badge/MySQL-313131?style=for-the-badge&logo=mysql&logoColor=blue)
 ![Redis](https://img.shields.io/badge/redis-%23313131.svg?&style=for-the-badge&logo=redis&logoColor=red)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-313131?style=for-the-badge&logo=postgresql&logoColor=blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-313131?style=for-the-badge&logo=postgresql&logoColor=blue)  
+![MariaDB](https://img.shields.io/badge/MariaDB-313131?style=for-the-badge&logo=mariadb&logoColor=blue)
+![MySQL](https://img.shields.io/badge/MySQL-313131?style=for-the-badge&logo=mysql&logoColor=blue)
 ![SQLite](https://img.shields.io/badge/Sqlite-313131?style=for-the-badge&logo=sqlite&logoColor=blue)
 
 ## ⚙️ Programming Proficiencies
