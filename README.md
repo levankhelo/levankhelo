@@ -45,7 +45,7 @@ Master in Computer Science
 ## ‎‏‏‎ ‎  
 ### ‎‏‏‎ ‎  
 <a href="https://www.nike.io">
-  <p align="center"><img  height="125px" src="/media/nike-glitch.gif?raw=true"/></p>
+  <p align="center"><img  height="125px" src="/media/nike-wet.gif?raw=true"/></p>
   <p align="center">Nike</p>
 </a>
 <p align="center">Leading athletic apparel retail company, delivering innovative products, experiences and services</p>
