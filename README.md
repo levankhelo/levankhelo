@@ -19,7 +19,7 @@ Master in Computer Science
 > Pursuing **PhD**
 
 ## 🏘️ Companies  
-
+### ‎‏‏‎ ‎  
 <p align="center"><img height="125px"  src="https://logos-world.net/wp-content/uploads/2020/12/CERN-Logo.png"/></p>
 <a href="https://www.cern.ch">
   <p align="center">CERN</p>
