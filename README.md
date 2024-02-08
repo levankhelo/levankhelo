@@ -18,12 +18,55 @@ Passionate About:
 Master in Computer Science
 > Pursuing **PhD**
 
-## 🏘️ Companies worked at
-<a href="https://www.cern.ch"> <img display="inline-block" height="75px"  src="https://logos-world.net/wp-content/uploads/2020/12/CERN-Logo.png"/></a> 
+## 🏘️ Companies  
+
+<a href="https://www.cern.ch">
+  <p align="center"><img height="125px"  src="https://logos-world.net/wp-content/uploads/2020/12/CERN-Logo.png"/></p>
+  <p align="center">CERN</p>
+</a>
+<p align="center">the European Organization for Nuclear Research, is one of the world's largest and most respected centres for scientific research</p>
+
+## ‎‏‏‎ ‎  
+### ‎‏‏‎ ‎  
+<a href="https://www.natix.io">
+  <p align="center"><img height="125px"  src="https://pnptc-media.s3.amazonaws.com/images/NATIX.max-500x500.png"/></p>
+  <p align="center">NATIX</p>
+</a>
+<p align="center">German startup, data-safe, AI/ML models on IOT Edge Devices</p>
+
+## ‎‏‏‎ ‎  
+### ‎‏‏‎ ‎  
+<a href="https://www.epam.com">
+  <p align="center"><img height="75px"  src="https://logos-download.com/wp-content/uploads/2019/06/Epam_Systems_Logo.png"/></p>
+  <p align="center">EPAM</p>
+</a>
+<p align="center">Global, one of top 15, IT service company in the world, providing services for clients like Google, Adobe, Nike, and many more.</p>
+
+## ‎‏‏‎ ‎  
+### ‎‏‏‎ ‎  
+<a href="https://www.nike.io">
+  <p align="center"><img  src="https://github.com/levankhelo/levankhelo/assets/37659795/1044ac2f-c2d9-4df2-a1f9-b6fd9ff7c48b"/></p>
+  <p align="center">Nike</p>
+</a>
+<p align="center">Leading athletic apparel retail company, delivering innovative products, experiences and services</p>
+
+## ‎‏‏‎ ‎  
+### ‎‏‏‎ ‎  
+<a href="https://www.aholddelhaize.com/brands/">
+  <p align="center"><img height="75px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ahold_Delhaize.svg/188px-Ahold_Delhaize.svg.png?20221018210422"/></p>
+  <p align="center">Ahold Delhaize</p>
+</a>
+<p align="center">Innovative, retail and wholesale company, with large variaty of products and 19 different brands spread over 3 continents</p>
+
+
+<!-- nike logo: https://logos-download.com/wp-content/uploads/2016/03/Nike_logo_emblem_logotype.png -->
+<!--
 <a href="https://www.natix.io"><img display="inline-block" height="75px"  src="https://pnptc-media.s3.amazonaws.com/images/NATIX.max-500x500.png"/></a> 
 <a href="https://www.epam.com"><img display="inline-block" height="75px"  src="https://logos-download.com/wp-content/uploads/2019/06/Epam_Systems_Logo.png"/></a>
 <a href="https://www.nike.io"><img display="inline-block" height="75px"  src="https://logos-download.com/wp-content/uploads/2016/03/Nike_logo_emblem_logotype.png"/></a>
 <a href="https://www.aholddelhaize.com/brands/"><img display="inline-block" height="75px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ahold_Delhaize.svg/188px-Ahold_Delhaize.svg.png?20221018210422"/></a>   
+-->
+
 
 ## 🤖 AI, ML & Data
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-313131?style=for-the-badge&logo=openai&logoColor=teal)
