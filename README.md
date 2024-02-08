@@ -37,7 +37,7 @@ Master in Computer Science
 ## ‎‏‏‎ ‎  
 ### ‎‏‏‎ ‎  
 <a href="https://www.epam.com">
-  <p align="center"><img height="75px"  src="https://logos-download.com/wp-content/uploads/2019/06/Epam_Systems_Logo.png"/></p>
+  <p align="center"><img height="175px"  src="./media/epam-animated.gif"/></p>
   <p align="center">EPAM</p>
 </a>
 <p align="center">Global, one of top 15, IT service company in the world, providing services for clients like Google, Adobe, Nike, and many more.</p>
@@ -45,7 +45,7 @@ Master in Computer Science
 ## ‎‏‏‎ ‎  
 ### ‎‏‏‎ ‎  
 <a href="https://www.nike.io">
-  <p align="center"><img  src="https://github.com/levankhelo/levankhelo/assets/37659795/1044ac2f-c2d9-4df2-a1f9-b6fd9ff7c48b"/></p>
+  <p align="center"><img  height="125px" src="./media/nike-glitch.gif"/></p>
   <p align="center">Nike</p>
 </a>
 <p align="center">Leading athletic apparel retail company, delivering innovative products, experiences and services</p>
