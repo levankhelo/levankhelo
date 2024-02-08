@@ -44,7 +44,7 @@ Master in Computer Science
 
 ## ‎‏‏‎ ‎  
 ### ‎‏‏‎ ‎  
-<p align="center"><img  height="125px" src="./media/nike-wet.gif?raw=true"/></p>
+<p align="center"><img  height="125px" width="auto" src="./media/nike-wet.gif?raw=true"/></p>
 <a href="https://www.nike.io">
   <p align="center">Nike</p>
 </a>
@@ -52,7 +52,7 @@ Master in Computer Science
 
 ## ‎‏‏‎ ‎  
 ### ‎‏‏‎ ‎  
-<p align="center"><img height="75px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ahold_Delhaize.svg/188px-Ahold_Delhaize.svg.png?20221018210422"/></p>
+<p align="center"><img height="75px" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ahold_Delhaize.svg/188px-Ahold_Delhaize.svg.png?20221018210422"/></p>
 <a href="https://www.aholddelhaize.com/brands/">
   <p align="center">Ahold Delhaize</p>
 </a>
