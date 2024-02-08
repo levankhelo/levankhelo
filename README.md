@@ -40,7 +40,7 @@ Master in Computer Science
 <a href="https://www.epam.com">
   <p align="center">EPAM</p>
 </a>
-<p align="center">One of top 15, IT service provider company in the world, working with clients like Google, Adobe, Nike, and many more.</p>
+<p align="center">One in top 15 IT service provider company in the world, working with clients like Google, Adobe, Nike, and many more.</p>
 
 ## ‎‏‏‎ ‎  
 ### ‎‏‏‎ ‎  
