@@ -36,11 +36,11 @@ Master in Computer Science
 
 ## ‎‏‏‎ ‎  
 ### ‎‏‏‎ ‎  
-<p align="center"><img height="175px"  src="./media/epam-animated.gif?raw=true"/></p>
+<p align="center"><img height="75px" src="./media/epam-glitch.gif?raw=true"/></p>
 <a href="https://www.epam.com">
   <p align="center">EPAM</p>
 </a>
-<p align="center">Global, one of top 15, IT service company in the world, providing services for clients like Google, Adobe, Nike, and many more.</p>
+<p align="center">One of top 15, IT service provider company in the world, working with clients like Google, Adobe, Nike, and many more.</p>
 
 ## ‎‏‏‎ ‎  
 ### ‎‏‏‎ ‎  
