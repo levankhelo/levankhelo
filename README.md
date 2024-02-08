@@ -57,7 +57,8 @@ Master in Computer Science
   <p align="center">Ahold Delhaize</p>
 </a>
 <p align="center">Innovative, retail and wholesale company, with large variaty of products and 19 different brands spread over 3 continents</p>
-
+  
+### ‎‏‏‎ ‎  
 
 <!-- nike logo: https://logos-download.com/wp-content/uploads/2016/03/Nike_logo_emblem_logotype.png -->
 <!--
