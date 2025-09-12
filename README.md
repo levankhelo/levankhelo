@@ -57,7 +57,15 @@ Master in Computer Science
   <p align="center">Ahold Delhaize</p>
 </a>
 <p align="center">Innovative, retail and wholesale company, with large variaty of products and 19 different brands spread over 3 continents</p>
-  
+
+## ‎‏‏‎ ‎  
+### ‎‏‏‎ ‎  
+<p align="center"><img src="./media/twdc.gif?raw=true"/></p>
+<a href="https://www.disney.com/">
+  <p align="center">Walt Disney Company</p>
+</a>
+<p align="center">World's leading producer and providers of entertainment and information</p>
+
 ### ‎‏‏‎ ‎  
 
 <!-- nike logo: https://logos-download.com/wp-content/uploads/2016/03/Nike_logo_emblem_logotype.png -->
