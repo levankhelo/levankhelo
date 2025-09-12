@@ -60,7 +60,7 @@ Master in Computer Science
 
 ## ‎‏‏‎ ‎  
 ### ‎‏‏‎ ‎  
-<p align="center"><img src="./media/twdc.gif?raw=true"/></p>
+<p align="center"><img src="./media/disney.gif?raw=true"/></p>
 <a href="https://www.disney.com/">
   <p align="center">Walt Disney Company</p>
 </a>
