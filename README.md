@@ -4,7 +4,7 @@ Check out [My Webpage](https://levankhelo.com) for more information
 
 ## About me
 ### I Am
-**Software**, **System**, and **DevOps** **Engineer** with over **8 years** of experience in the field.    
+**Software**, **System**, and **DevOps** **Engineer** with over **11 years** of experience in the field.    
   
 Passionate About:
 > - 👾 Coding
@@ -62,9 +62,9 @@ Master in Computer Science
 ### ‎‏‏‎ ‎  
 <p align="center"><img src="./media/disney.gif?raw=true"/></p>
 <a href="https://www.disney.com/">
-  <p align="center">Walt Disney Company</p>
+  <p align="center">The Walt Disney Company</p>
 </a>
-<p align="center">World's leading producer and providers of entertainment and information</p>
+<p align="center">World's leading producer and provider of entertainment and information</p>
 
 ### ‎‏‏‎ ‎  
 
